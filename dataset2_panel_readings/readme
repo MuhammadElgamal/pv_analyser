@@ -1,0 +1,14 @@
+This folder includes measurements of the second dataset organised panel by panel.
+Each MAT file has instances of "measurement" class that has its date/ IV curve before and after consitioning with extracted single-diode parameters as well.
+Each panel has a separate MAT file.
+Also, There are CSV files that contain corresponding CLEANED dataset with columns corresponding to following features:
+Temperature,
+Irradiance,
+short-circuit current,
+open-circuit voltage,
+fill factor,
+maximum power,
+efficiency,
+Class: 1 means functioning panel and 0, means faulty panel.
+
+_
