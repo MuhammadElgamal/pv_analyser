@@ -1,0 +1,15 @@
+This folder contains a Python Script for applying ML algorithms on dataset 2 recorded  from a solar station.
+
+The first folder is csvfiles and it contains CSV for each panel, with features recorded as follows:
+Temperature,
+Irradiance,
+Short-Circuit Current
+Open-Circuit Voltage
+Fill Factor
+Maximum Power
+Efficiency
+Class: can be 0 for faulty panels and 1 for functional panels
+
+
+-------
+The second folder contaings MATLAB data files for object arrays of measurement MATLAB class. Each array contains valid measurments for each panel.
